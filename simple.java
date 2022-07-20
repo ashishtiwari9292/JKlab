@@ -1,7 +1,7 @@
 class Simple{
 public static void main(string args[]){
 
-sysytem.out.println(" Welcome to jenkins cloud lab ");
+sysytem.out.println(" Welcome to jenkins cloud lab new india ");
 }
 }
 
